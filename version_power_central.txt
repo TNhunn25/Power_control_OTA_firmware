@@ -1,1 +1,1 @@
-{"Device ID":"22343", "32911" , "ALL" Version:"1.1.2"}
+{"Device ID":"22343", Version:"1.1.2"}
